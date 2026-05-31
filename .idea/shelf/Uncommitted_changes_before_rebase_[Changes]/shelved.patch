@@ -1,0 +1,14 @@
+Index: members/contact.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>전화: 010-xxxx-xxxx  \n이메일: trex1004@gmail.com\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/members/contact.md b/members/contact.md
+--- a/members/contact.md	(revision cc796854de772622219baa332bd1797f228bb9b9)
++++ b/members/contact.md	(date 1780203628969)
+@@ -1,2 +1,3 @@
++# 연락처
+ 전화: 010-xxxx-xxxx  
+ 이메일: trex1004@gmail.com
